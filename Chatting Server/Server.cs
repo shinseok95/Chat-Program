@@ -23,8 +23,8 @@ namespace Chatting_Server
         // 서버 주소(IP,PORT)
 
 
-        string serverIP= "172.30.1.49";
-        int PORT = 19132;
+        string serverIP= ""; //보안을 위해 업로드 전 삭제
+        int PORT = ; //보안을 위해 업로드 전 삭제
         
         TcpListener server = null;
         Thread t;
