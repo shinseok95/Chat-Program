@@ -23,8 +23,8 @@ namespace Chatting_Client
         private Point mousePoint;
 
         // 서버 주소(IP,PORT)
-        private string serverIP = "59.5.217.102";
-        private int serverPORT = 19132;
+        private string serverIP = ""; //보안을 위해 업로드 전 삭제
+        private int serverPORT =; //보안을 위해 업로드 전 삭제
 
         // stream
         public NetworkStream m_Stream;
