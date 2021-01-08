@@ -84,7 +84,7 @@ namespace packet
         {
             this.message = null;
             this.time = null;
-            this.DBName = null;
+            DBName = null;
         }
         
         public void clear()
